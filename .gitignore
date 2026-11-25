@@ -1,2 +1,6 @@
+# Build outputs (make build)
 version.dll
 selftest.exe
+
+# macOS
+.DS_Store
